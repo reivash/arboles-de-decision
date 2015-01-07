@@ -1,0 +1,15 @@
+AF,PA,AS,IC,AA,OA
+Sí,Alta,Alto,Alto,No,No
+Sí,Alta,Alto,Alto,Sí,No
+Sí,Baja,Alto,Bajo,No,No
+No,Media,Alto,Alto,No,Sí
+No,Media,Bajo,Alto,Sí,Sí
+Sí,Baja,Bajo,Alto,Sí,Sí
+Sí,Alta,Bajo,Alto,Sí,No
+Sí,Alta,Bajo,Bajo,No,Sí
+No,Alta,Alto,Bajo,Sí,Sí
+Sí,Baja,Bajo,Alto,Sí,Sí
+Sí,Media,Bajo,Bajo,Sí,Sí
+No,Alta,Bajo,Alto,Sí,Sí
+Sí,Baja,Alto,Alto,Sí,Sí
+Sí,Baja,Alto,Bajo,No,No

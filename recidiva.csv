@@ -1,0 +1,501 @@
+edad,tam,grado,gang,feno,quim,horm,recid
+51,2.3,G1,0,Luminal A,No,Yes,NO
+46,3.4,G3,4,Basal like,Yes,No,SI
+49,2.1,G2,1,HER2 enriched,Yes,Yes,NO
+31,1.7,G2,1,Basal like,Yes,No,NO
+36,1.5,G3,0,Basal like,Yes,No,NO
+59,3.8,G3,2,Luminal B,Yes,Yes,NO
+55,1.5,G1,0,Luminal B,No,Yes,NO
+36 4,G3,2,Luminal B,Yes,No,SI
+63,1.8,G2,10,Luminal A,Yes,Yes,SI
+44,1.8,G3,0,Basal like,Yes,No,SI
+55 2,G2,12,Luminal B,No,Yes,SI
+82 9,G2,8,HER2 enriched,No,Yes,NO
+57 1,G2,5,Luminal A,Yes,Yes,NO
+27,2.3,G3,9,Basal like,Yes,No,SI
+48,1.5,G2,0,Luminal B,No,Yes,NO
+73,2.5,G1,2,Luminal B,No,Yes,NO
+77 5,G2,0,Luminal B,No,Yes,NO
+38 6,G3,31,Luminal B,Yes,No,SI
+63,1.7,G2,0,Luminal A,No,Yes,NO
+42,1.5,G1,0,Luminal A,No,No,NO
+45,1.8,G1,0,Luminal A,No,Yes,NO
+52,2.5,G2,0,Luminal B,Yes,Yes,NO
+47,0.5,G1,0,Luminal A,No,No,NO
+50,1.3,G2,3,Luminal A,Yes,No,NO
+40,2.3,G2,1,Luminal A,Yes,No,NO
+35,3.5,G3,5,Luminal B,Yes,Yes,NO
+52,2.6,G3,1,Luminal A,Yes,Yes,NO
+65,2.8,G2,7,Luminal A,Yes,Yes,SI
+41 3,G3,1,Basal like,Yes,No,NO
+62,1.2,G3,1,Basal like,Yes,No,SI
+45,2.8,G2,0,Luminal A,Yes,Yes,NO
+38,2.5,G3,1,HER2 enriched,Yes,No,NO
+56,3.2,G3,0,Basal like,Yes,No,NO
+47,1.5,G2,0,Luminal A,No,Yes,NO
+56,1.3,G1,0,Luminal A,No,Yes,NO
+42,0.9,G2,0,Luminal A,No,No,NO
+70 2,G1,0,Luminal B,No,Yes,NO
+85 12,G3,11,TN no-basal,No,Yes,SI
+43 2,G2,0,Basal like,Yes,No,NO
+49 6,G3,0,Basal like,Yes,No,NO
+47,3.5,G2,3,Luminal A,Yes,Yes,NO
+42,2.5,G2,8,Luminal A,Yes,Yes,NO
+58,2.1,G2,0,Luminal B,Yes,Yes,NO
+75 3,G2,3,Luminal A,No,Yes,NO
+41,2.8,G3,0,Luminal B,Yes,No,NO
+79,2.5,G2,4,Luminal B,No,Yes,NO
+71,2.5,G2,0,Luminal B,No,Yes,SI
+68,2.5,G2,2,Luminal B,Yes,Yes,NO
+48,1.5,G2,0,Luminal B,No,No,NO
+77,4.5,G3,0,Basal like,No,No,NO
+65,1.5,G3,2,Basal like,Yes,No,NO
+45,2.2,G2,0,Luminal A,Yes,Yes,NO
+67,4.5,G2,1,Luminal A,Yes,No,NO
+43 2,G2,0,HER2 enriched,Yes,No,NO
+46,1.5,G2,3,Luminal B,Yes,Yes,NO
+62,1.3,G2,3,Luminal B,Yes,Yes,NO
+46,2.7,G3,6,HER2 enriched,Yes,Yes,SI
+56 2,G2,0,Luminal B,No,Yes,NO
+62,3.7,G3,4,HER2 enriched,Yes,No,SI
+84,2.5,G1,0,Luminal A,No,Yes,NO
+73,6.5,G3,8,Luminal A,No,Yes,SI
+62 3,G2,2,Luminal A,Yes,Yes,NO
+37 2,G3,0,Basal like,Yes,Yes,NO
+53 4,G2,9,Luminal A,Yes,Yes,NO
+76,2.5,G2,0,TN no-basal,Yes,Yes,SI
+49 2,G1,0,Luminal A,No,Yes,NO
+55 4,G3,0,TN no-basal,No,No,NO
+67,1.5,G2,2,Luminal A,Yes,Yes,NO
+62 2,G2,1,Luminal A,Yes,No,NO
+37,1.5,G3,15,Luminal-HER2,Yes,No,NO
+41,1.5,G3,6,HER2 enriched,Yes,Yes,NO
+59 2,G2,0,Luminal B,Yes,Yes,NO
+40,2.5,G2,0,Luminal A,No,Yes,NO
+57,3.2,G2,11,Luminal A,Yes,Yes,SI
+32,2.7,G2,3,Luminal B,Yes,No,NO
+61,1.2,G2,0,Luminal B,No,Yes,NO
+69,2.3,G2,0,Luminal A,No,Yes,NO
+25,4.5,G2,8,Luminal A,Yes,Yes,SI
+44 10,G2,0,HER2 enriched,Yes,No,SI
+40,2.6,G2,0,Luminal A,Yes,Yes,SI
+47,2.5,G3,2,Luminal B,Yes,No,SI
+58,2.2,G1,5,Luminal A,Yes,Yes,NO
+45 5,G3,7,Basal like,Yes,Yes,SI
+44 2,G1,0,Luminal A,No,Yes,NO
+49 2,G2,2,Luminal A,Yes,Yes,NO
+76,0.9,G1,1,Luminal A,No,Yes,NO
+51,1.3,G1,0,Luminal A,No,Yes,NO
+55 2,G2,1,Luminal A,Yes,Yes,NO
+82 2,G2,0,Luminal A,No,Yes,NO
+67,2.5,G1,0,Luminal A,No,Yes,NO
+63 4,G2,1,Luminal B,Yes,Yes,SI
+74,2.5,G2,10,Luminal A,Yes,Yes,NO
+52 1,G3,0,Luminal A,No,No,NO
+62,0.2,G1,0,Luminal A,No,No,NO
+50,2.5,G3,16,HER2 enriched,Yes,No,NO
+74,2.5,G3,9,Basal like,No,Yes,SI
+64,1.5,G3,1,Luminal B,Yes,Yes,NO
+54,2.4,G3,7,Luminal-HER2,Yes,Yes,NO
+63 1,G2,1,Luminal B,Yes,No,NO
+53,1.8,G3,9,HER2 enriched,Yes,No,NO
+36 2,G1,4,Luminal A,Yes,No,NO
+43,0.9,G1,10,Luminal A,Yes,Yes,NO
+79,1.3,G2,0,Luminal B,No,Yes,NO
+71,3.5,G1,0,Luminal A,No,Yes,NO
+46,3.3,G3,2,Luminal-HER2,Yes,No,SI
+39,1.6,G2,4,Luminal A,Yes,Yes,NO
+69 5,G3,0,Basal like,Yes,Yes,NO
+51,1.1,G2,1,Luminal A,Yes,Yes,NO
+64,5.9,G2,3,Luminal A,No,Yes,NO
+40 2,G3,0,HER2 enriched,Yes,No,NO
+78,1.5,G2,2,Luminal A,Yes,Yes,NO
+76 4,G1,0,Luminal A,No,Yes,NO
+52,3.5,G1,13,Luminal A,Yes,Yes,NO
+48,1.2,G2,0,TN no-basal,Yes,Yes,NO
+47,2.5,G3,7,Luminal B,Yes,Yes,NO
+48 2,G2,10,Luminal A,Yes,Yes,NO
+72,2.1,G2,2,Luminal B,No,Yes,NO
+62 1,G2,0,Luminal B,No,Yes,NO
+47,2.5,G2,0,Luminal B,Yes,Yes,NO
+36 3,G3,9,Luminal B,Yes,No,NO
+58,0.3,G3,0,TN no-basal,No,No,NO
+65,2.3,G2,1,Luminal A,Yes,Yes,NO
+80 3,G2,1,TN no-basal,No,Yes,NO
+50,1.3,G3,0,Luminal B,Yes,Yes,NO
+74,2.5,G2,0,HER2 enriched,No,Yes,SI
+82,2.8,G2,0,Luminal B,No,Yes,NO
+52,1.2,G2,0,Luminal A,No,Yes,NO
+63 3,G2,3,Luminal A,Yes,Yes,NO
+38,1.8,G1,0,Luminal A,Yes,Yes,NO
+59,0.9,G2,2,Luminal B,No,Yes,NO
+61,1.7,G3,0,Basal like,Yes,No,NO
+69,1.8,G1,0,Luminal A,No,Yes,NO
+78,3.8,G3,0,Luminal A,No,Yes,NO
+45,1.3,G3,0,Luminal A,Yes,Yes,NO
+67 3,G2,0,Luminal A,Yes,Yes,NO
+60 4,G3,1,Luminal A,Yes,Yes,NO
+78 2,G1,1,Luminal A,No,Yes,NO
+71,1.2,G3,0,Luminal A,No,No,SI
+82,2.5,G2,15,Luminal A,No,Yes,NO
+54 3,G2,11,Luminal A,Yes,Yes,NO
+58,0.8,G2,0,Luminal A,No,No,NO
+83,2.4,G1,0,Luminal A,No,Yes,NO
+69 1,G1,9,Luminal A,Yes,Yes,NO
+84,1.5,G2,0,Luminal A,No,Yes,NO
+73,2.9,G2,0,Luminal A,No,Yes,NO
+61,2.5,G2,0,Luminal A,Yes,Yes,NO
+68 2,G2,2,Luminal A,No,Yes,NO
+46,4.5,G1,2,Luminal A,Yes,Yes,NO
+80,2.5,G2,0,Luminal A,No,Yes,NO
+39,1.9,G2,0,Basal like,Yes,Yes,NO
+45,2.5,G1,3,Luminal B,Yes,No,SI
+70 2,G2,3,Luminal B,No,Yes,NO
+65 4,G2,0,Luminal B,Yes,Yes,NO
+44 3,G3,3,Luminal B,Yes,Yes,NO
+56,5.3,G3,0,Basal like,Yes,Yes,SI
+77 4,G2,1,Luminal B,No,Yes,SI
+59,2.2,G2,2,HER2 enriched,Yes,Yes,NO
+74,2.8,G2,0,Luminal A,No,Yes,SI
+78,2.5,G2,0,Luminal A,No,Yes,NO
+72,0.9,G2,0,Luminal A,No,Yes,NO
+58,2.8,G1,9,Luminal A,Yes,Yes,NO
+50,1.8,G1,2,Luminal A,Yes,Yes,NO
+66 2,G2,0,Luminal B,No,No,NO
+40,4.5,G2,0,Luminal B,Yes,Yes,NO
+31,1.5,G2,2,Luminal A,Yes,Yes,NO
+51,1.8,G2,1,Luminal A,Yes,No,NO
+73 2,G3,0,HER2 enriched,No,No,NO
+73,0.8,G2,3,Luminal A,No,Yes,NO
+61,6.5,G3,5,HER2 enriched,Yes,Yes,SI
+83,2.5,G2,1,Basal like,No,Yes,SI
+62,1.6,G2,0,Luminal A,No,Yes,NO
+47,3.5,G1,1,Luminal B,Yes,Yes,NO
+72 3,G3,2,Basal like,Yes,No,NO
+46,0.7,G2,0,Luminal A,No,No,NO
+61,0.9,G2,1,Luminal B,Yes,Yes,NO
+62,1.2,G2,0,Luminal B,No,Yes,NO
+51,0.6,G2,0,Basal like,No,No,NO
+51,1.4,G3,0,Luminal-HER2,Yes,No,NO
+56,3.8,G3,3,TN no-basal,Yes,No,NO
+52 3,G3,0,HER2 enriched,Yes,Yes,NO
+47 1,G3,1,Luminal B,Yes,Yes,NO
+39,2.3,G2,5,Luminal A,Yes,Yes,NO
+48 5,G2,14,Luminal A,Yes,No,NO
+68,2.5,G2,0,Luminal A,Yes,Yes,NO
+72,1.7,G1,0,Luminal B,No,No,NO
+66,4.5,G3,1,Luminal-HER2,Yes,Yes,NO
+70,1.6,G2,7,Luminal A,No,Yes,NO
+63 3,G2,1,Luminal B,Yes,Yes,NO
+52,1.2,G2,4,Luminal A,Yes,Yes,NO
+55,1.5,G2,16,Luminal A,Yes,Yes,NO
+46,0.8,G1,0,Luminal A,Yes,Yes,NO
+58,1.8,G1,0,Luminal A,No,Yes,NO
+54,1.8,G2,2,Luminal B,Yes,No,NO
+54,2.5,G2,2,Basal like,Yes,Yes,NO
+58,3.2,G2,2,Luminal B,No,Yes,NO
+56 3,G2,2,Luminal A,Yes,Yes,NO
+44,1.1,G1,0,Luminal B,No,Yes,NO
+48,1.6,G1,0,Luminal A,No,Yes,NO
+50 3,G2,1,Luminal B,Yes,No,SI
+31 3,G3,0,Luminal B,Yes,Yes,SI
+40,2.5,G2,6,Luminal A,Yes,No,NO
+56,3.5,G3,0,Luminal B,Yes,Yes,NO
+51 3,G3,1,Basal like,Yes,Yes,NO
+65,2.4,G2,0,Luminal A,Yes,Yes,NO
+40,1.7,G2,0,Luminal A,No,No,NO
+48,4.5,G3,6,Basal like,Yes,No,NO
+65,1.8,G1,0,Luminal A,No,Yes,NO
+63,3.4,G1,1,Luminal B,Yes,No,NO
+58 2,G2,0,Luminal B,Yes,Yes,NO
+62,4.3,G2,8,Luminal A,Yes,Yes,NO
+41,5.8,G2,3,Luminal B,Yes,Yes,NO
+76,1.2,G2,0,Luminal A,No,Yes,NO
+51,0.5,G2,0,Luminal A,No,No,NO
+44,2.5,G2,1,Luminal A,Yes,No,NO
+64,2.3,G2,0,Luminal B,Yes,Yes,NO
+47,2.3,G1,2,Luminal B,Yes,Yes,NO
+56 2,G2,0,Luminal B,No,Yes,NO
+70,1.7,G3,8,HER2 enriched,Yes,No,NO
+61 4,G3,1,TN no-basal,Yes,Yes,NO
+39 8,G1,1,Luminal A,Yes,Yes,NO
+56 4,G3,1,Basal like,Yes,Yes,NO
+65 5,G2,4,Luminal B,Yes,Yes,SI
+36,1.5,G3,13,Basal like,Yes,No,SI
+44,1.8,G3,0,TN no-basal,Yes,Yes,NO
+78,2.2,G3,2,Basal like,No,Yes,NO
+39,1.2,G2,0,Basal like,Yes,No,NO
+41 4,G2,7,Luminal B,Yes,Yes,NO
+43,2.1,G2,0,Luminal-HER2,Yes,Yes,NO
+65 6,G2,3,Luminal B,Yes,No,NO
+33,2.5,G2,7,Basal like,Yes,No,SI
+44,1.9,G2,0,Luminal A,Yes,Yes,NO
+64,2.5,G2,18,Luminal B,Yes,Yes,NO
+43 3,G2,2,Luminal A,Yes,No,NO
+45,7.8,G3,4,HER2 enriched,Yes,No,NO
+70,2.5,G2,0,Luminal B,No,Yes,SI
+42 6,G2,2,Luminal A,Yes,Yes,NO
+73,2.5,G2,8,Luminal B,Yes,Yes,NO
+73,1.2,G1,3,Luminal A,Yes,Yes,NO
+37 2,G2,3,Luminal-HER2,Yes,No,NO
+47,2.8,G3,0,HER2 enriched,Yes,No,NO
+32,2.8,G3,0,Luminal A,Yes,No,NO
+52 6,G3,0,TN no-basal,Yes,No,SI
+43,2.7,G1,0,Luminal A,Yes,Yes,NO
+47,3.2,G2,8,Luminal A,Yes,Yes,NO
+42,1.5,G2,2,Luminal B,Yes,Yes,NO
+41,2.1,G3,4,Luminal A,Yes,Yes,NO
+44,2.7,G2,0,Luminal A,No,Yes,NO
+37 2,G3,0,Luminal-HER2,Yes,Yes,NO
+60 4,G2,6,Luminal A,No,Yes,NO
+45 3,G2,4,Luminal B,Yes,No,NO
+53,1.7,G2,0,Luminal B,No,Yes,NO
+49,6.8,G3,34,HER2 enriched,Yes,No,SI
+60 8,G3,0,Basal like,Yes,No,NO
+37,2.7,G3,1,Basal like,No,No,NO
+45,1.5,G2,0,Luminal B,No,Yes,NO
+69,2.8,G2,2,Luminal-HER2,Yes,Yes,SI
+65 2,G2,0,Luminal B,No,Yes,NO
+40 2,G2,1,Luminal-HER2,Yes,Yes,NO
+70,1.7,G2,0,TN no-basal,No,Yes,NO
+51,2.5,G3,2,Basal like,Yes,No,NO
+43,1.7,G2,0,Luminal A,Yes,Yes,NO
+50,0.5,G3,0,Luminal B,No,No,SI
+40,2.9,G3,0,Basal like,Yes,No,NO
+51 2,G3,0,Luminal B,Yes,Yes,NO
+75 2,G1,0,Luminal A,No,Yes,NO
+66,1.5,G3,18,Basal like,Yes,No,NO
+63,2.5,G2,0,Luminal A,Yes,No,NO
+42,1.4,G2,0,Luminal A,No,Yes,NO
+63 4,G2,2,Luminal-HER2,Yes,Yes,SI
+55 2,G3,3,Basal like,Yes,No,NO
+41,4.5,G3,0,Luminal B,Yes,Yes,NO
+71,1.8,G2,0,Luminal A,No,Yes,NO
+57,0.4,G2,0,Luminal-HER2,No,No,NO
+50,3.5,G2,1,Luminal A,Yes,Yes,NO
+60 3,G3,2,Luminal B,Yes,No,SI
+65,2.7,G2,0,Luminal A,Yes,Yes,NO
+43,1.4,G1,0,Luminal B,Yes,Yes,NO
+57 3,G2,4,Luminal A,Yes,Yes,NO
+75,2.2,G2,3,Luminal A,No,Yes,NO
+58,1.5,G2,9,Luminal A,Yes,Yes,NO
+31,2.5,G2,0,Luminal A,Yes,No,NO
+69,0.9,G1,0,Luminal A,No,No,NO
+77,1.4,G2,0,Luminal A,No,No,NO
+42 2,G2,0,Basal like,Yes,No,NO
+42,1.2,G2,0,Luminal A,Yes,No,NO
+46,2.3,G2,7,Luminal A,Yes,No,NO
+48,1.8,G3,4,Luminal B,Yes,Yes,SI
+53,3.5,G3,0,Basal like,Yes,No,NO
+71 1,G3,0,Basal like,No,Yes,NO
+45,4.5,G3,1,Luminal B,Yes,Yes,NO
+52 3,G2,5,Luminal A,Yes,No,NO
+74,2.8,G2,4,Luminal A,Yes,No,SI
+45,2.8,G2,0,Luminal A,Yes,No,NO
+73,1.2,G2,0,Luminal A,No,Yes,NO
+79 3,G2,0,Luminal A,No,Yes,NO
+58 2,G3,0,Luminal A,No,Yes,NO
+72,3.5,G3,3,Luminal A,No,Yes,NO
+34 2,G2,0,Luminal A,Yes,No,NO
+73,2.5,G2,1,Luminal B,No,Yes,NO
+64,2.4,G3,4,Luminal-HER2,Yes,Yes,NO
+47,2.7,G2,0,TN no-basal,Yes,No,NO
+51,3.2,G2,2,Basal like,No,Yes,NO
+56,0.8,G1,5,Luminal B,No,Yes,SI
+43,1.2,G2,1,Luminal A,Yes,Yes,NO
+74,2.9,G2,7,Luminal A,No,No,NO
+67,1.5,G3,0,Basal like,No,Yes,NO
+78 6,G2,0,Luminal A,No,Yes,NO
+54 2,G2,0,Luminal B,Yes,Yes,NO
+58,1.2,G1,0,Luminal B,No,Yes,NO
+68 8,G3,1,HER2 enriched,Yes,Yes,NO
+42 6,G3,2,Basal like,Yes,No,SI
+82 2,G2,0,Luminal B,No,Yes,NO
+40 6,G3,17,HER2 enriched,Yes,No,SI
+45,3.8,G3,3,Luminal A,Yes,Yes,NO
+79 6,G2,3,Luminal B,No,Yes,NO
+55 2,G2,4,Luminal A,Yes,Yes,NO
+67,3.5,G2,2,Luminal B,Yes,Yes,NO
+45,1.7,G3,0,Luminal B,Yes,Yes,NO
+56,2.5,G2,0,Luminal A,No,Yes,NO
+53,0.7,G1,0,Luminal A,No,Yes,NO
+33,2.5,G2,4,TN no-basal,Yes,Yes,NO
+32,1.5,G1,0,Luminal A,Yes,No,NO
+61,2.5,G1,1,Luminal A,Yes,Yes,NO
+69 1,G2,0,Luminal A,No,Yes,NO
+71 3,G2,0,Luminal A,No,Yes,NO
+56,1.6,G2,0,Luminal A,No,Yes,NO
+59 3,G1,0,Luminal A,Yes,Yes,NO
+50,0.8,G2,0,Luminal A,No,No,NO
+56,1.8,G2,2,Luminal-HER2,Yes,Yes,NO
+69,2.5,G3,0,Luminal A,Yes,Yes,NO
+65 2,G1,0,TN no-basal,No,Yes,NO
+55,3.4,G2,2,HER2 enriched,Yes,Yes,SI
+56 2,G2,0,Luminal A,Yes,Yes,NO
+71,2.8,G2,0,Luminal A,No,Yes,NO
+49,0.3,G3,1,Basal like,Yes,No,NO
+55,2.6,G2,0,TN no-basal,Yes,No,NO
+69,2.3,G3,0,Luminal A,Yes,Yes,NO
+58,3.1,G2,1,Luminal A,Yes,Yes,NO
+30 3,G2,4,Luminal B,Yes,Yes,NO
+45,1.8,G2,1,Luminal A,Yes,Yes,NO
+53 2,G2,5,Luminal A,Yes,Yes,NO
+70,2.5,G1,0,Luminal A,No,Yes,NO
+52 3,G2,3,Luminal A,Yes,Yes,SI
+68,1.8,G2,0,Luminal A,No,Yes,NO
+63 3,G3,1,Basal like,Yes,No,NO
+36,1.3,G3,4,HER2 enriched,Yes,No,NO
+49 1,G2,1,Luminal A,Yes,Yes,NO
+30,2.7,G3,1,Basal like,Yes,Yes,SI
+50,2.5,G3,0,Basal like,Yes,No,NO
+42,1.5,G2,0,Luminal A,Yes,Yes,NO
+42,3.5,G2,0,Luminal A,Yes,Yes,NO
+79,2.5,G1,0,Luminal A,No,Yes,NO
+60 1,G2,0,Luminal A,No,Yes,NO
+55,3.5,G3,3,Luminal B,Yes,Yes,NO
+57,1.5,G2,1,Luminal A,Yes,No,NO
+68,2.5,G2,1,Luminal A,No,Yes,NO
+57,3.5,G3,1,Basal like,Yes,No,NO
+59,1.1,G1,0,Luminal A,No,Yes,NO
+52,1.1,G3,3,Luminal A,Yes,Yes,NO
+43,1.4,G2,0,TN no-basal,Yes,No,NO
+43 4,G2,7,Basal like,Yes,No,SI
+33 7,G3,8,TN no-basal,Yes,No,SI
+50,1.3,G2,1,Luminal A,Yes,Yes,NO
+49,2.3,G3,15,Luminal B,Yes,Yes,SI
+68 4,G2,0,Luminal A,No,Yes,NO
+76,1.3,G2,0,Luminal B,No,Yes,NO
+44,0.9,G3,0,Luminal B,Yes,Yes,NO
+75 2,G2,1,Luminal B,No,Yes,NO
+39 3,G3,2,Basal like,Yes,No,NO
+51,1.8,G1,1,Luminal A,Yes,Yes,NO
+60 2,G2,1,Luminal A,No,Yes,NO
+29,1.5,G3,0,Basal like,Yes,Yes,NO
+64,1.4,G2,3,Luminal-HER2,Yes,Yes,NO
+60,1.8,G1,7,Luminal A,Yes,Yes,NO
+68,2.6,G1,7,Luminal A,No,Yes,NO
+63,2.5,G2,1,Luminal B,Yes,Yes,NO
+80,1.5,G2,3,HER2 enriched,No,No,SI
+72 2,G2,1,Luminal A,No,Yes,NO
+61,2.5,G1,6,Luminal A,Yes,Yes,NO
+58 3,G3,0,Luminal-HER2,Yes,Yes,NO
+42,2.1,G3,5,HER2 enriched,Yes,No,SI
+56 2,G2,6,Luminal B,Yes,Yes,NO
+77,3.5,G2,0,Luminal A,No,Yes,NO
+54,2.5,G2,1,Basal like,Yes,Yes,NO
+52,4.5,G2,5,Luminal A,Yes,No,SI
+42 2,G1,1,Luminal A,Yes,No,NO
+56,1.5,G2,0,Luminal A,No,Yes,NO
+52,6.6,G2,10,Luminal B,Yes,No,SI
+78,2.5,G2,16,Luminal A,No,Yes,NO
+32 1,G3,1,Luminal A,Yes,No,SI
+74,2.5,G2,0,TN no-basal,No,Yes,SI
+74,2.5,G3,0,Basal like,No,Yes,NO
+32,1.5,G2,0,Luminal B,Yes,No,NO
+42,0.9,G1,0,Luminal A,No,No,NO
+53,3.5,G2,1,Luminal A,Yes,No,NO
+31,2.4,G3,0,Basal like,Yes,No,NO
+44 2,G3,2,Luminal B,Yes,Yes,NO
+49 3,G2,0,Luminal A,Yes,Yes,NO
+35 2,G3,0,Luminal B,Yes,Yes,NO
+46,1.1,G1,3,Luminal A,Yes,No,NO
+61,2.5,G1,0,HER2 enriched,No,No,NO
+65,1.6,G1,0,Luminal B,No,Yes,NO
+73 3,G3,0,Luminal A,No,Yes,NO
+52,2.2,G1,1,Luminal A,Yes,Yes,NO
+64,1.4,G2,4,Luminal A,Yes,Yes,NO
+50,3.1,G2,0,Luminal A,Yes,Yes,NO
+45 4,G2,0,Basal like,Yes,No,NO
+61,1.8,G3,0,Luminal A,Yes,No,NO
+66,1.8,G3,1,Luminal B,Yes,No,SI
+74 9,G3,19,Basal like,No,Yes,SI
+88,3.5,G2,1,Luminal A,No,Yes,NO
+71 3,G3,0,Luminal B,No,Yes,SI
+57,0.8,G2,0,Luminal A,No,No,NO
+64,1.8,G2,0,Luminal A,No,Yes,NO
+80,2.9,G1,0,Luminal A,No,Yes,NO
+68,2.8,G2,1,Luminal A,Yes,Yes,NO
+41 2,G1,4,Luminal B,Yes,Yes,NO
+72,1.3,G1,0,Luminal A,No,Yes,NO
+46,1.1,G2,0,Luminal-HER2,Yes,No,NO
+47 2,G2,7,TN no-basal,Yes,Yes,NO
+68,0.6,G2,1,Luminal-HER2,No,Yes,NO
+57,2.3,G3,2,TN no-basal,Yes,No,NO
+57 2,G1,1,Luminal A,Yes,No,NO
+48 4,G3,0,Luminal A,Yes,Yes,NO
+57,1.5,G1,0,Luminal A,No,Yes,NO
+37,5.2,G3,3,Basal like,Yes,No,SI
+34,4.2,G3,5,TN no-basal,Yes,No,NO
+48,0.8,G2,0,Luminal A,No,No,NO
+56 4,G3,7,Luminal B,Yes,Yes,NO
+60,1.3,G2,0,Luminal A,No,Yes,NO
+57 2,G2,1,Luminal A,Yes,Yes,NO
+33,2.6,G3,2,Luminal A,Yes,No,SI
+51 2,G2,15,HER2 enriched,Yes,No,SI
+59 8,G2,16,Luminal A,Yes,Yes,NO
+74 4,G2,0,Luminal A,No,Yes,NO
+52 5,G2,5,Luminal A,Yes,Yes,NO
+68 2,G2,1,Luminal B,No,Yes,NO
+45,1.8,G2,17,Luminal A,Yes,Yes,NO
+42,0.9,G1,0,Luminal A,No,Yes,NO
+65,1.5,G2,1,Luminal A,Yes,Yes,NO
+52,2.1,G2,1,Luminal A,Yes,Yes,NO
+63,1.9,G2,18,Luminal A,Yes,Yes,NO
+40,2.1,G3,7,Luminal B,Yes,Yes,NO
+55,0.9,G2,0,Luminal B,No,No,NO
+61,1.5,G3,0,Basal like,No,Yes,SI
+38,1.4,G2,1,Luminal-HER2,Yes,Yes,NO
+60,1.2,G1,0,Luminal A,No,Yes,NO
+51,2.7,G3,1,Basal like,Yes,No,NO
+70,2.8,G3,0,Luminal B,No,Yes,NO
+46 2,G3,0,Luminal A,Yes,No,NO
+36,2.5,G2,8,Luminal B,Yes,Yes,NO
+78 2,G2,1,Luminal A,No,Yes,NO
+55,2.5,G3,0,Basal like,Yes,Yes,NO
+63,1.3,G2,0,Basal like,Yes,Yes,NO
+37 4,G2,10,Luminal B,Yes,Yes,SI
+49,1.5,G2,1,Luminal B,Yes,No,NO
+72,1.5,G1,22,Luminal A,Yes,Yes,SI
+45 2,G2,2,Luminal B,Yes,No,NO
+58 2,G2,0,HER2 enriched,Yes,Yes,NO
+28,1.6,G2,1,Luminal A,Yes,No,NO
+48,1.7,G2,0,Basal like,Yes,Yes,NO
+41,2.2,G2,0,Luminal A,Yes,Yes,NO
+38,2.5,G3,1,Luminal-HER2,Yes,No,NO
+42 2,G2,1,Luminal A,Yes,Yes,NO
+55,1.2,G2,1,Luminal A,Yes,Yes,NO
+52,0.9,G2,0,Luminal A,No,Yes,NO
+40 2,G3,1,Luminal A,Yes,Yes,SI
+58 3,G3,0,TN no-basal,Yes,No,NO
+62,2.5,G2,3,Luminal A,Yes,Yes,NO
+48 3,G2,3,Luminal A,Yes,No,NO
+61 3,G2,1,Luminal A,Yes,Yes,NO
+36,1.5,G3,11,TN no-basal,Yes,Yes,NO
+35 8,G2,2,Luminal B,Yes,No,NO
+47,2.5,G2,4,Luminal B,Yes,No,NO
+65 1,G1,0,Luminal A,No,Yes,NO
+50,2.5,G2,7,Basal like,Yes,No,NO
+71 3,G3,11,Luminal B,Yes,Yes,SI
+76,1.2,G2,0,Luminal A,No,Yes,NO
+43,0.8,G2,0,Luminal A,No,No,NO
+62,2.5,G2,1,Luminal-HER2,Yes,Yes,NO
+45 3,G3,8,Basal like,Yes,No,NO
+68,3.5,G2,0,HER2 enriched,Yes,Yes,NO
+65,4.6,G3,0,Luminal A,Yes,Yes,SI
+57 4,G2,8,Luminal A,Yes,Yes,NO
+65 1,G2,0,Luminal A,No,Yes,NO
+62,1.3,G2,0,Luminal B,No,Yes,NO
+71,1.6,G2,0,Luminal B,No,Yes,NO
+39,1.5,G3,12,HER2 enriched,Yes,No,SI
+65,1.4,G2,0,Luminal A,No,Yes,NO
+53,2.5,G2,1,Luminal A,Yes,Yes,SI
+46,1.2,G2,1,Luminal A,Yes,Yes,NO
+46,1.8,G2,1,Luminal A,Yes,Yes,NO
+51,0.7,G1,0,Luminal A,No,Yes,NO
+88 3,G3,1,Luminal B,No,Yes,NO
+55 3,G3,0,TN no-basal,Yes,Yes,NO
+63,1.2,G2,0,Luminal A,No,Yes,NO
+60,2.5,G2,1,Luminal B,Yes,Yes,NO
+70 1,G1,0,Luminal A,No,Yes,NO
+66,1.5,G3,0,Basal like,Yes,No,SI
+63,2.3,G2,10,Luminal B,Yes,Yes,NO
